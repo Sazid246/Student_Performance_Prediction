@@ -1,7 +1,7 @@
-📊 Student Performance Analysis
+# 📊 Student Performance Analysis
 This repository contains a Jupyter Notebook for analyzing student performance data. It includes data preprocessing, visualization, and statistical analysis to identify key factors affecting student success. The notebook may use machine learning models to predict performance based on various features.
 
-Features:
+## Features:
 Data cleaning and preprocessing
 Exploratory Data Analysis (EDA) with visualizations
 Statistical insights and correlations
